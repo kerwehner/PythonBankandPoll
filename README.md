@@ -14,7 +14,7 @@ It's time to put away the Excel sheet and join the big leagues. Welcome to the w
 3. Inside of each folder that you just created, add a new python files. This will be the main script to run for each analysis.
 4. Push the above changes to GitHub.
 
-## PyBank 
+## PyBank
 
 Revenue
 
