@@ -1,8 +1,8 @@
-
+# import libraries
 import csv
 import os
 
-#load and output
+# load and output
 # file_to_load = csvpath = "budget_data.csv"
 # file_to_output = csvpath = "budget_analysis.txt"
 file_to_load = os.path.join("budget_data.csv")
